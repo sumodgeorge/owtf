@@ -1,7 +1,7 @@
 blinker
 cffi==1.14.1
 cookies==2.2.1
-dnspython==1.15.0
+dnspython==2.6.0rc1
 future==0.16.0
 hrt==0.1.0
 ipaddr
